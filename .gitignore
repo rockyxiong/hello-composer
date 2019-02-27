@@ -1,0 +1,3 @@
+hello (master) $ cat .gitignore
+vendor/*
+composer.lock

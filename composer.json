@@ -1,0 +1,18 @@
+{
+    "name": "xiongjianghua/hello",
+    "description": "My first composer package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xiongjianghua",
+            "email": "xiongjianghua1503@emao.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload": {
+        "psr-4": {
+            "Hello\\": "src/"
+        }
+    }
+}
